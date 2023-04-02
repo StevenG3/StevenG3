@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 [![!trophy](https://github-profile-trophy.vercel.app/?username=StevenG3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![StevenG3's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StevenG3)(https://github.com/StevenG3/github-readme-activity-graph)
+![StevenG3's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StevenG3)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevenG3)](https://git.io/streak-stats)
