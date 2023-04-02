@@ -15,9 +15,9 @@ Here are some ideas to get you started: -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ![gggqqy@foxmail.com](https://img.shields.io/badge/📫-gggqqy@foxmail.com-orange) ![gqy7372@gmail.com](https://img.shields.io/badge/📫-gqy7372@gmail.com-green)
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: NJU | EE | ENFJ | 不会敲代码的摄影师不是好学生
+- ⚡ Fun fact: NJU | EE | ENFJ | 不会敲代码的摄影师不是好学生 | A photographer who can't code is not a good student
 
-
+### Statistics 📒
 <!-- ![Metrics](https://metrics.lecoq.io/StevenG3?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai) -->
 
 <!-- [![StevenG3's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenG3)](https://github.com/anuraghazra/github-readme-stats) -->
