@@ -7,9 +7,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🏛️ I'm 2nd year EE Student, at Nanjing University
-- 🔭 I’m currently working on my distributed key-value storage system ![https://github.com/StevenG3/MySkipList](https://img.shields.io/badge/github-MySkipList-yellow)
-
+- 🏛️ I'm 2nd year EE Student in China 🇨🇳, at Nanjing University 
+- 🔭 I’m currently working on my distributed key-value storage system ![https://github.com/StevenG3/MySkipList](https://img.shields.io/badge/github-MySkipList-red)
 - 🌱 I’m currently learning MIT 6.824/6.5840
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
