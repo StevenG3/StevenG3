@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🐣 I was born in March 1996
 - 🏛️ I'm 2nd year EE Student at Nanjing University in China 🇨🇳
-- 🔭 I’m currently working on my distributed key-value storage system [![MySkipList](https://img.shields.io/badge/github-MySkipList-red?logo=github)](https://github.com/StevenG3/MySkipList)
+- 🔭 I’m currently working on my distributed key-value storage system [![MySkipList](https://img.shields.io/badge/-MySkipList-red?logo=github&labelColor=gray)](https://github.com/StevenG3/MySkipList)
 
 - 🌱 I’m currently learning MIT 6.824/6.5840
 <!-- - 👯 I’m looking to collaborate on ... -->
