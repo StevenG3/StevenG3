@@ -7,14 +7,14 @@ Here are some ideas to get you started: -->
 
 - 🐣 I was born in March 1996
 - 🏛️ I'm 2nd year EE Student at Nanjing University in China 🇨🇳
-- 🔭 I’m currently working on my distributed key-value storage system [![](https://img.shields.io/badge/github-MySkipList-red?logo=github)](https://github.com/StevenG3/MySkipList)
+- 🔭 I’m currently working on my distributed key-value storage system [![MySkipList](https://img.shields.io/badge/github-MySkipList-red?logo=github)](https://github.com/StevenG3/MySkipList)
 
 - 🌱 I’m currently learning MIT 6.824/6.5840
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ![](https://img.shields.io/badge/📫-gggqqy@foxmail.com-orange) ![](https://img.shields.io/badge/📫-gqy7372@gmail.com-green)
+- 📫 How to reach me: ![StevenG3's Mailbox0](https://img.shields.io/badge/📫-gggqqy@foxmail.com-orange) ![StevenG3's Mailbox1](https://img.shields.io/badge/📫-gqy7372@gmail.com-green)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: NJU | EE | ENFJ | 不会敲代码的摄影师不是好学生 | A photographer who can't code is not a good student
 
