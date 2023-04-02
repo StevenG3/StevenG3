@@ -7,14 +7,17 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my distributed key-value storage system.
+- 🏛️ I'm 2nd year EE Student, at Nanjing University
+- 🔭 I’m currently working on my distributed key-value storage system ![https://github.com/StevenG3/MySkipList](https://img.shields.io/badge/github-MySkipList-yellow)
+
 - 🌱 I’m currently learning MIT 6.824/6.5840
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: ![gggqqy@foxmail.com](https://img.shields.io/badge/📫-gggqqy@foxmail.com-orange) ![gqy7372@gmail.com](https://img.shields.io/badge/📫-gqy7372@gmail.com-green)
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/StevenG3?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai) -->
