@@ -78,7 +78,7 @@ Here are some ideas to get you started: -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=StevenG3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
 
-![StevenG3's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StevenG3)
+![StevenG3's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StevenG3)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevenG3)](https://git.io/streak-stats) -->
 
